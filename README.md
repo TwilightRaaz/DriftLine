@@ -1,6 +1,6 @@
-# Hi, I’m Rekib Ali 👋
+# Hi, I’m Rekib (Raaz) 👋
 
-**UI/UX & graphic designer · Cybersecurity enthusiast**
+**UI/UX & graphic designer · Learning Micro-interactions**
 
 I’m a self-taught designer from Assam, focused on UI design, graphic design and branding. I enjoy turning ideas into clear, functional interfaces and visuals that communicate with purpose.
 
